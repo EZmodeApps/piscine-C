@@ -1,0 +1,5 @@
+Credentials cache: API:E988B8A3-7A3D-474F-B86E-E991725AE6BF
+        Principal: caniseed@MSK.21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Jan 18 18:41:15 2021  Jan 19 04:41:10 2021  krbtgt/MSK.21-SCHOOL.RU@MSK.21-SCHOOL.RU
